@@ -15,4 +15,8 @@ Blockchain technology is only in its beggining stage with it mainly being used f
 Curbs future plans on integrating this new model includes servicing large events, colleges and universities
 
 # Curb Coin
-Curb will operate under our open-source project, Curb Coin (CURB). Curb Coin will be built on Ethereum and be used for transactions in the Curb Marketplace.
+Curb will operate under our open-source, free to use project, Curb Coin (CURB). 
+
+Curb Coin will be built on Ethereum and be used for transactions in the Curb Marketplace.
+
+Curb and CurbCoin are seperate entities
