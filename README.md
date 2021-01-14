@@ -31,7 +31,7 @@ Curb makes it easy to understand the our model of monetization
 
 The consumer and seller incentives for using Curb are simple
 
-  By allowing anyone to list their space on the marketplace, Curb can expand the current availability of parking up to 2x. Using Curb will beat the rates of    parking anywhere else without it.
+- By allowing anyone to list their space on the marketplace, Curb can expand the current availability of parking up to 2x. Using Curb will beat the rates of    parking anywhere else without it.
   
 Curb takes into consideration the overall expirience of each user after renting a parking space
 
