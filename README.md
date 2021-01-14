@@ -17,6 +17,31 @@ Curbs future plans on integrating this new model includes servicing large events
 # Curb Coin
 Curb will use CurbCoin (CURB) to complete transcations on the Marketplace
 
-Curb Coin will be built on Ethereum and be used for transactions in the Curb Marketplace.
+  Curb Coin will be built on Ethereum and be used for transactions in the Curb Marketplace.
 
 Curb and CurbCoin are seperate entities, CurbCoin is a free to use, open-source project.
+
+# Business Model
+
+Curb makes it easy to understand the our model of monetization
+
+-  For each peer to peer transaction between space buyer (x) and seller (x), Curb takes 10% commission of the final price of the contract.
+  
+# Incentives
+
+The consumer and seller incentives for using Curb are simple
+
+  By allowing anyone to list their space on the marketplace, Curb can expand the current availability of parking up to 2x. Using Curb will beat the rates of    parking anywhere else without it.
+  
+Curb takes into consideration the overall expirience of each user after renting a parking space
+
+  - In our rating system, users selling their spaces will be promoted throughout the market and recieve higher "Seller Ratings" based on the overall expirience people have doing business with them
+  
+For the consumer, finding available parking is extremely simple. This eliminates the stress of driving in circles looking for space on a busy day. 
+
+
+  
+
+  
+  
+ 
