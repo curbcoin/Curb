@@ -10,7 +10,9 @@ Curbs goal is to disrupt the current $100bn parking and garage industry by allow
 # A Bright Future
 Using Smart Contracts thanks to the Ethereum blockchain, Curb allows for users to make agreements on short-term and long-term parking deals within seconds. This allows for the safety and security for the seller, as well as the buyer. 
 
-Blockchain technology is only in its beggining stage with it mainly being used for financial services, current predictions state "2021 is shaping up to be the year that, across the board, blockchain moves into the mainstream and a much wider range of economic sectors. Healthcare, transportation, and logistics are just a few of the areas that may benefit from wider blockchain adoption and implementation." (https://bit.ly/3nKQmjR)
+Blockchain technology is only in its beggining stage with it mainly being used for financial services, current predictions state
+
+  - "2021 is shaping up to be the year that, across the board, blockchain moves into the mainstream and a much wider range of economic sectors. Healthcare, transportation, and logistics are just a few of the areas that may benefit from wider blockchain adoption and implementation." (https://bit.ly/3nKQmjR)
 
 Curbs future plans on integrating this new model includes servicing large events, colleges and universities
 
