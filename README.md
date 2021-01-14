@@ -2,7 +2,7 @@
 Curb is a Decentralized Peer to Peer Network for finding available parking spaces throughout the US.
 
 # Introduction
-Curb was created for the future of the automotive industry. Imagine a world where locating a parking space can be done before you arrive. With Curb, this is possible. Curb works with owners of Parking Lots & Garages as well as the everyday human. Using Curb allows anyone to list their owned parking spot, driveway, and rented space available on the Curb Marketplace.
+Curb was created for the future of the automotive industry. Imagine a world where locating a parking space can be done before you arrive. With Curb, this is possible. Curb works with owners of Parking Lots & Garages as well as the everyday human. Using Curb allows anyone to list their own parking spot, driveway, and rented space available on the Curb Marketplace.
 
 # Mission
 Curbs goal is to disrupt the current $100bn parking and garage industry by allowing virtually anyone to list their parking spot when it's not in use. Curb can decrease the current cost of paid parking up to 10x, making it extremely affordable for everyone.
