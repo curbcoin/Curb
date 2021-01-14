@@ -17,7 +17,7 @@ Curbs future plans on integrating this new model includes servicing large events
 # Curb Coin
 Curb will use CurbCoin (CURB) to complete transcations on the Marketplace
 
-  Curb Coin will be built on Ethereum and be used for transactions in the Curb Marketplace.
+  Curb Coin will be a token built on the Ethereum blockchain and be used for transactions in the Curb Marketplace.
 
 Curb and CurbCoin are seperate entities, CurbCoin is a free to use, open-source project.
 
