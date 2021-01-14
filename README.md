@@ -25,7 +25,7 @@ Curb and CurbCoin are seperate entities, CurbCoin is a free to use, open-source 
 
 Curb makes it easy to understand the our model of monetization
 
--  For each peer to peer transaction between space buyer (x) and seller (x), Curb takes 10% commission of the final price of the contract.
+-  For each P2P transaction between space buyer (x) and seller (x), Curb takes 10% commission of the final price of the contract.
   
 # Incentives
 
