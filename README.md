@@ -11,4 +11,4 @@ Curbs goal is to disrupt the current $100bn parking and garage industry. By allo
 Using Smart Contracts, Curb allows for users to make agreements on short-term and long-term parking deals within seconds. This allows for the safety and security for the seller, as well as the buyer. 
 
 # Curb Coin
-Curb will operate under our open-source project, Curb Coin (# CURB). Curb Coin will be built on Ethereum and be used for transactions in the Crub Marketplace.
+Curb will operate under our open-source project, Curb Coin (CURB). Curb Coin will be built on Ethereum and be used for transactions in the Crub Marketplace.
