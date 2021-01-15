@@ -1,8 +1,8 @@
 # Curb
-Curb is an easy to use marketplace for finding available parking at extreme low rates
+Curb is an easy to use crypto marketplace for finding available parking at extreme low rates
 
 # Introduction
-Curb was created for the future of the automotive industry. Imagine a world where locating a parking space can be done before you arrive. With Curb, this is possible. Curb works with owners of Parking Lots & Garages as well as the everyday human. Using Curb allows for lot owners, companies, and more to accept cryptocurrency as a form as payment for parking.
+Curb was created for the future of the automotive industry. Imagine a world where locating a parking space can be done before you arrive. With Curb, this is possible. Curb works with owners of Parking Lots & Garages as well as the everyday human. Using Curb allows for lot owners, companies, and more to accept cryptocurrency as a form as payment for parking to provide cheaper space.
 
 # Mission
 Curbs goal is to nearly half the average cost of paid parking by allowing any company to accept cryptocurrency in exchange for space.
@@ -23,6 +23,8 @@ Curb will use Bitcoin (Stage 1) and CurbCoin (CURB) [Future Use] to complete tra
 
 Curb and CurbCoin are seperate entities, CurbCoin is a free to use, open-source project.
 
+CurbCoins goal is to be "the currency of the automotive industry"
+
 # Business Model
 
 Curb makes it easy to understand the our model of monetization
@@ -41,7 +43,7 @@ Curb takes into consideration the overall expirience of each user after renting 
   
 For the consumer, finding available parking is extremely simple. This eliminates the stress of driving in circles looking for space on a busy day. 
 
-
+For the seller, taking forms of payment in cryptocurrency far beat common payment gateways. Parking spaces are now investments.
   
 
   
