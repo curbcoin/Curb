@@ -17,7 +17,7 @@ Blockchain technology is only in its beggining stage with it mainly being used f
 Curbs future plans on integrating this new model includes servicing large events, colleges and universities
 
 # Curb Coin
-Curb will use CurbCoin (CURB) to complete transcations on the Marketplace
+Curb will use Bitcoin (Stage 1) and CurbCoin (CURB) [Future Use] to complete transcations on the Marketplace
 
   Curb Coin will be a token built on the Ethereum blockchain and be used for transactions in the Curb Marketplace.
 
