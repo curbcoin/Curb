@@ -34,17 +34,14 @@ Curb makes it easy to understand the our model of monetization
 # Incentives
 
 The consumer and seller incentives for using Curb are simple
+ 
+  - For the consumer, finding available parking is extremely simple. This eliminates the stress of driving in circles looking for space on a busy day. 
 
-[- By allowing anyone to list their space on the marketplace, Curb can expand the current availability of parking up to 2x. Using Curb will beat the rates of    parking anywhere else without it.] FIX
+  - For the seller, taking forms of payment in cryptocurrency far beat common payment gateways. Parking spaces are now investments.
   
 Curb takes into consideration the overall expirience of each user after renting a parking space
 
   - In our rating system, users selling their spaces will be promoted throughout the market and recieve higher "Seller Ratings" based on the overall expirience people have doing business with them
-  
-For the consumer, finding available parking is extremely simple. This eliminates the stress of driving in circles looking for space on a busy day. 
-
-For the seller, taking forms of payment in cryptocurrency far beat common payment gateways. Parking spaces are now investments.
-  
 
   
   
