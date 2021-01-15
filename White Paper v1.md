@@ -1,14 +1,14 @@
 # Curb
-Curb is a Decentralized Peer to Peer Network for finding available parking spaces throughout the US.
+Curb is an easy to use marketplace for finding available parking at extreme low rates
 
 # Introduction
-Curb was created for the future of the automotive industry. Imagine a world where locating a parking space can be done before you arrive. With Curb, this is possible. Curb works with owners of Parking Lots & Garages as well as the everyday human. Using Curb allows anyone to list their own parking spot, driveway, and rented space available on the Curb Marketplace.
+Curb was created for the future of the automotive industry. Imagine a world where locating a parking space can be done before you arrive. With Curb, this is possible. Curb works with owners of Parking Lots & Garages as well as the everyday human. Using Curb allows for lot owners, companies, and more to accept cryptocurrency as a form as payment for parking.
 
 # Mission
-Curbs goal is to disrupt the current $100bn parking and garage industry by allowing virtually anyone to list their parking spaces on the marketplace. Curb can decrease the current cost of paid parking up to 10x, making it extremely affordable for everyone.
+Curbs goal is to nearly half the average cost of paid parking by allowing any company to accept cryptocurrency in exchange for space.
 
 # A Bright Future
-Using Smart Contracts thanks to the Ethereum blockchain, Curb allows for users to make agreements on short-term and long-term parking deals within seconds. This allows for the safety and security for the seller, as well as the buyer. 
+Using Smart Contracts thanks to the Ethereum blockchain, Curb will allow for users to make agreements on short-term and long-term parking deals within seconds. This allows for the safety and security for the seller, as well as the buyer. 
 
 Blockchain technology is only in its beggining stage with it mainly being used for financial services, current predictions state
 
@@ -27,13 +27,13 @@ Curb and CurbCoin are seperate entities, CurbCoin is a free to use, open-source 
 
 Curb makes it easy to understand the our model of monetization
 
--  For each P2P transaction between space buyer (x) and seller (x), Curb takes 10% commission of the final price of the contract.
+-  For each transaction between space buyer (x) and seller (x), Curb takes 10% commission of the final price of the contract.
   
 # Incentives
 
 The consumer and seller incentives for using Curb are simple
 
-- By allowing anyone to list their space on the marketplace, Curb can expand the current availability of parking up to 2x. Using Curb will beat the rates of    parking anywhere else without it.
+[- By allowing anyone to list their space on the marketplace, Curb can expand the current availability of parking up to 2x. Using Curb will beat the rates of    parking anywhere else without it.] FIX
   
 Curb takes into consideration the overall expirience of each user after renting a parking space
 
