@@ -19,7 +19,7 @@ Curbs future plans on integrating this new model includes servicing large events
 # Curb Coin
 Curb will use Bitcoin (Stage 1) and CurbCoin (CURB) [Future Use] to complete transactions on the Marketplace
 
-  Curb Coin will be a token built on the Ethereum blockchain and be used for transactions with Curb.
+- Curb Coin will be a token built on the Ethereum blockchain and be used for transactions with Curb.
 
 Curb and CurbCoin will be separate entities
 
